@@ -3,6 +3,7 @@
 📊 HR Data Analytics | Excel, SQL, Power BI
 
 🔍 Project Overview
+
 This project focuses on analyzing HR data to identify employee attrition patterns, workforce distribution, and key factors impacting employee retention. The analysis leverages Excel, SQL, and Power BI to transform raw HR data into actionable insights.
 
 ## 📁 Project Structure
