@@ -1,4 +1,4 @@
-# hr-data-analytics
+# HR-data-analytics
 
 📊 HR Data Analytics | Excel, SQL, Power BI
 
